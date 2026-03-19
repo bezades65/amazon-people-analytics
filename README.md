@@ -1,4 +1,4 @@
-## Amazon Fulfillment Center People Analytics
+## Amazon Fulfillment Center People Analytics 👥
 
 _**Overview**_
 
