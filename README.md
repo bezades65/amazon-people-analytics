@@ -1,9 +1,11 @@
 ## Amazon Fulfillment Center People Analytics
 
 _**Overview**_
+
 This project analyzes part time associate turnover and identifies training gaps as a key driver of early attrition.
 
 _**Business Problem**_
+
 Part time associates leave within 90 days at high rates due to inconsistent onboarding and lack of structured training.
 
 Data
