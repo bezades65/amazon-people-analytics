@@ -8,6 +8,10 @@ _**Business Problem**_
 
 Part time associates leave within 90 days at high rates due to inconsistent onboarding and lack of structured training.
 
+-------------------------------------------------------------------
+
+
+
 Data
 - Employee feedback data
 - Training and onboarding indicators
@@ -21,12 +25,15 @@ Key Findings
 - 50 percent of part time associates showed neutral or negative sentiment toward training
 - Lack of structured onboarding leads to slower productivity and higher attrition
 
-**Solution**
-Designed a standardized 5 day onboarding program with clear milestones and training ownership
+----------------
+_**Solution**_
+- Designed a standardized 5 day onboarding program with clear milestones and training ownership
 
-Impact
+_**Impact**_
 - Target 15 percent improvement in 90 day retention
 - Target 25 percent faster time to productivity
 
-Tools
-- Python, SQL, Power BI
+**Dashboard Preview**
+[ insert screenshot of dashboard ] 
+
+Tools: Python, SQL, Power BI
