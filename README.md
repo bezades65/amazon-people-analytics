@@ -33,7 +33,8 @@ _**Impact**_
 - Target 15 percent improvement in 90 day retention
 - Target 25 percent faster time to productivity
 
-**Dashboard Preview**
-[ insert screenshot of dashboard ] 
+## Visuals
 
-Tools: Python, SQL, Power BI
+### Sentiment by Theme
+
+![Sentiment by Theme](visuals/sentiment_by_theme_bar.png)
