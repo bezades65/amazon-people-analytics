@@ -1,41 +1,46 @@
 ## Amazon Fulfillment Center People Analytics 👥
 
-_**Overview**_
+**Result:** Identified inconsistent training as the main driver of early attrition and proposed a low-cost, standardized onboarding solution to improve retention.
 
-This project analyzes part time associate turnover and identifies training gaps as a key driver of early attrition.
+### Overview
+This project analyzes early turnover among part-time associates using employee feedback from Glassdoor and YouTube. The goal was to identify root causes of attrition and recommend a scalable solution.
 
-_**Business Problem**_
+### Business Problem
+Part-time associates leave within the first 90 days at high rates. Training is inconsistent, unstructured, and unmeasured, which leads to confusion, slower ramp-up time, and early exits.
 
-Part time associates leave within 90 days at high rates due to inconsistent onboarding and lack of structured training.
+### Data
+- Employee reviews from Glassdoor  
+- YouTube comment sentiment related to associate experiences  
+- Training and onboarding indicators  
 
--------------------------------------------------------------------
+### Method
+- Cleaned and analyzed data using Python and SQL  
+- Performed sentiment analysis on external feedback sources  
+- Grouped feedback into themes such as training gaps, burnout, and scheduling  
+- Compared sentiment distribution across themes  
 
+### Key Findings
+- Training gaps were the only recurring issue across all feedback sources  
+- 50 percent of part-time associates showed neutral or negative sentiment toward training  
+- Sentiment around training was mostly neutral, which signals early concern rather than frustration  
+- This creates a window to intervene before attrition increases  
+- Poor onboarding contributes to slower productivity and higher turnover  
 
+### Solution
+- Designed a standardized 5-day onboarding program with clear milestones  
+- Introduced Training Leads to ensure consistency and accountability  
+- Created a simple tracking system to measure training completion  
 
-Data
-- Employee feedback data
-- Training and onboarding indicators
+### Impact
+- Target 15 percent improvement in 90-day retention  
+- Target 25 percent faster time to productivity  
+- Estimated cost under $5,000, with positive ROI if at least two early quits are prevented
 
-Method
-- Cleaned and analyzed data using Python and SQL
-- Identified patterns in training gaps and retention
-
-Key Findings
-- Training gaps appeared as the only recurring issue in feedback
-- 50 percent of part time associates showed neutral or negative sentiment toward training
-- Lack of structured onboarding leads to slower productivity and higher attrition
-
-----------------
-_**Solution**_
-- Designed a standardized 5 day onboarding program with clear milestones and training ownership
-
-_**Impact**_
-- Target 15 percent improvement in 90 day retention
-- Target 25 percent faster time to productivity
+<br>
 
 ## Visuals
 
-### _Sentiment by Theme_
+### Sentiment by Theme
 
 <p align="center">
   <img src="visuals/sentiment_by_theme_bar.png" width="60%">
