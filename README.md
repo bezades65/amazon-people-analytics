@@ -35,7 +35,7 @@ _**Impact**_
 
 ## Visuals
 
-### Sentiment by Theme
+### _Sentiment by Theme_
 
 <p align="center">
   <img src="visuals/sentiment_by_theme_bar.png" width="60%">
