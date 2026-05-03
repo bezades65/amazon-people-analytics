@@ -40,8 +40,18 @@ Part-time associates leave within the first 90 days at high rates. Training is i
 
 ## Visuals
 
-### Sentiment by Theme
+### Employee Feedback: Sentiment Distribution by Theme
+> Grouped reviews from Glassdoor and YouTube across four recurring themes
 
 <p align="center">
   <img src="visuals/sentiment_by_theme_bar.png" width="60%">
+</p>
+
+
+
+### Root Cause Tree: Training Gaps Issue
+> Analysis tracing inconsistent training quality to three structural root causes
+
+<p align="center">
+  <img src="visuals/training_gaps_root_cause_tree.png" width="60%">
 </p>
