@@ -55,3 +55,11 @@ Part-time associates leave within the first 90 days at high rates. Training is i
 <p align="center">
   <img src="visuals/training_gaps_root_cause_tree.png" width="60%">
 </p>
+
+
+### Part Time Associate Friction Map
+> How poor onboarding creates a self-reinforcing cycle of early attrition
+
+<p align="center">
+  <img src="visuals/part_time_friction_map.jpeg" width="60%">
+</p>
